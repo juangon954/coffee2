@@ -1,0 +1,17 @@
+
+body{
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+  color: seashell;
+  background-color: black;
+  font-size: 22px;
+  text-align: center;
+}
+header{
+
+}
+
+nav span {
+    text-align: right;
+    flex-grow: 1;
+}
